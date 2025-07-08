@@ -1,5 +1,5 @@
 
-bucket = "84s-remote-state-prod"
+bucket = "84-remote-state-k-prod"
 key    = "tfvars-demo"
 region = "us-east-1"
 encrypt        = true
